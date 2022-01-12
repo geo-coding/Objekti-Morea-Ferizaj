@@ -40,4 +40,22 @@ Apr 17 2021  Merea Ild kati 1 15:30
 May 10 2021  Merea 08:30 Pikat e Germimit llC
 
 
+Oct 22 2020 Merea Bodrumet CDE Parku 09:00
+Oct 29 2020 Merea niveli 11:31
+Nov 3 2020  Merea themelet CDE 10:00
+Nov 18 2020 Merea LLCDE niveli 2B 10:30
+Dec 4 2020 Merea-B2 themel pllaka 09:30
+Dec 5 2020  Merea llE kontrapllaka-shtyllat 10:00
+Dec 11 2020  Morea Liamella D-b2 10:00
+Dec 16 2020  Morea lle B2 11:00
+Dec 21 2020  Morea II D-B2 08:30
 
+Aug 29 2020  Merea llamella b 17:44
+Sep 7 2020 Merea llam A 15:20
+Oct 10 2020  Objekti te Morea matje faktike me esatin per riregjistrim 12:15
+Oct 15 2020  Merea Riregjistrim 13:30
+Oct 20 2020 More me Esatin bashkim  08:04
+Oct 20 2020 Morea Riregjistrim 11:01
+Oct 21 2020 Merea Riregjistrim Matje 09:00
+Oct 22 2020 Morea Bodrumet CDE Parku 09:00
+Oct 29 2020 Merea niveli 11:31
