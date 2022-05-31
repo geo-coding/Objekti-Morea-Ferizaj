@@ -1,0 +1,1535 @@
+Name: Parcela : 42
+
+Point of Beginning :  North: 4692352.3673m     East: 7511924.7531m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 1.000m
+North: 4692351.5887m     East: 7511925.3806m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692351.3377m     East: 7511925.0691m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 1.000m
+North: 4692352.1163m     East: 7511924.4416m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692352.3673m     East: 7511924.7531m
+
+--------------------------------------------------
+
+
+Perimeter: 2.800m     Area: 0.40sq.m
+************************************************************************
+Name: Parcela : 43
+
+Point of Beginning :  North: 4692356.7980m     East: 7511922.7199m
+
+Segment #1  :  Line
+
+Course: S26° 02' 43"E     Length: 0.600m
+North: 4692356.2589m     East: 7511922.9833m
+
+
+Segment #2  :  Line
+
+Course: S63° 57' 17"W     Length: 0.400m
+North: 4692356.0833m     East: 7511922.6239m
+
+
+Segment #3  :  Line
+
+Course: N26° 02' 43"W     Length: 0.600m
+North: 4692356.6223m     East: 7511922.3605m
+
+
+Segment #4  :  Line
+
+Course: N63° 57' 17"E     Length: 0.400m
+North: 4692356.7980m     East: 7511922.7199m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 44
+
+Point of Beginning :  North: 4692356.3713m     East: 7511928.9247m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 1.500m
+North: 4692355.2034m     East: 7511929.8659m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.250m
+North: 4692355.0465m     East: 7511929.6713m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 1.500m
+North: 4692356.2145m     East: 7511928.7300m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.250m
+North: 4692356.3713m     East: 7511928.9247m
+
+--------------------------------------------------
+
+
+Perimeter: 3.500m     Area: 0.38sq.m
+************************************************************************
+Name: Parcela : 45
+
+Point of Beginning :  North: 4692359.7042m     East: 7511926.3351m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 0.600m
+North: 4692359.2370m     East: 7511926.7116m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692358.9860m     East: 7511926.4001m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 0.600m
+North: 4692359.4532m     East: 7511926.0236m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692359.7042m     East: 7511926.3351m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 46
+
+Point of Beginning :  North: 4692360.5832m     East: 7511933.9916m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 0.600m
+North: 4692360.1160m     East: 7511934.3681m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692359.8650m     East: 7511934.0566m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 0.600m
+North: 4692360.3322m     East: 7511933.6801m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692360.5832m     East: 7511933.9916m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 47
+
+Point of Beginning :  North: 4692363.7911m     East: 7511931.4063m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 0.600m
+North: 4692363.3239m     East: 7511931.7828m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692363.0729m     East: 7511931.4713m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 0.600m
+North: 4692363.5401m     East: 7511931.0948m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692363.7911m     East: 7511931.4063m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 48
+
+Point of Beginning :  North: 4692362.2960m     East: 7511936.9137m
+
+Segment #1  :  Line
+
+Course: S51° 08' 04"W     Length: 0.600m
+North: 4692361.9195m     East: 7511936.4465m
+
+
+Segment #2  :  Line
+
+Course: N38° 51' 56"W     Length: 0.400m
+North: 4692362.2309m     East: 7511936.1955m
+
+
+Segment #3  :  Line
+
+Course: N51° 08' 04"E     Length: 0.600m
+North: 4692362.6074m     East: 7511936.6627m
+
+
+Segment #4  :  Line
+
+Course: S38° 51' 56"E     Length: 0.400m
+North: 4692362.2960m     East: 7511936.9137m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 49
+
+Point of Beginning :  North: 4692365.8305m     East: 7511933.9368m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 0.600m
+North: 4692365.3633m     East: 7511934.3133m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692365.1123m     East: 7511934.0019m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 0.600m
+North: 4692365.5795m     East: 7511933.6254m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692365.8305m     East: 7511933.9368m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 50
+
+Point of Beginning :  North: 4692367.8886m     East: 7511936.4906m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 0.600m
+North: 4692367.4214m     East: 7511936.8671m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692367.1704m     East: 7511936.5556m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 0.600m
+North: 4692367.6376m     East: 7511936.1791m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692367.8886m     East: 7511936.4906m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 51
+
+Point of Beginning :  North: 4692365.2121m     East: 7511938.6476m
+
+Segment #1  :  Line
+
+Course: S38° 51' 56"E     Length: 0.600m
+North: 4692364.7449m     East: 7511939.0241m
+
+
+Segment #2  :  Line
+
+Course: S51° 08' 04"W     Length: 0.400m
+North: 4692364.4939m     East: 7511938.7126m
+
+
+Segment #3  :  Line
+
+Course: N38° 51' 56"W     Length: 0.600m
+North: 4692364.9611m     East: 7511938.3361m
+
+
+Segment #4  :  Line
+
+Course: N51° 08' 04"E     Length: 0.400m
+North: 4692365.2121m     East: 7511938.6476m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 52
+
+Point of Beginning :  North: 4692360.8505m     East: 7511942.7679m
+
+Segment #1  :  Line
+
+Course: S38° 36' 26"E     Length: 2.000m
+North: 4692359.2876m     East: 7511944.0158m
+
+
+Segment #2  :  Line
+
+Course: S51° 23' 34"W     Length: 0.400m
+North: 4692359.0380m     East: 7511943.7032m
+
+
+Segment #3  :  Line
+
+Course: N38° 36' 26"W     Length: 2.000m
+North: 4692360.6009m     East: 7511942.4553m
+
+
+Segment #4  :  Line
+
+Course: N51° 23' 34"E     Length: 0.400m
+North: 4692360.8505m     East: 7511942.7679m
+
+--------------------------------------------------
+
+
+Perimeter: 4.800m     Area: 0.80sq.m
+************************************************************************
+Name: Parcela : 53
+
+Point of Beginning :  North: 4692357.0052m     East: 7511941.1775m
+
+Segment #1  :  Line
+
+Course: S51° 18' 22"W     Length: 0.600m
+North: 4692356.6301m     East: 7511940.7092m
+
+
+Segment #2  :  Line
+
+Course: N38° 41' 38"W     Length: 0.400m
+North: 4692356.9423m     East: 7511940.4592m
+
+
+Segment #3  :  Line
+
+Course: N51° 18' 22"E     Length: 0.600m
+North: 4692357.3174m     East: 7511940.9275m
+
+
+Segment #4  :  Line
+
+Course: S38° 41' 38"E     Length: 0.400m
+North: 4692357.0052m     East: 7511941.1775m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 54
+
+Point of Beginning :  North: 4692354.9659m     East: 7511938.6470m
+
+Segment #1  :  Line
+
+Course: S51° 18' 22"W     Length: 0.600m
+North: 4692354.5908m     East: 7511938.1787m
+
+
+Segment #2  :  Line
+
+Course: N38° 41' 38"W     Length: 0.400m
+North: 4692354.9030m     East: 7511937.9286m
+
+
+Segment #3  :  Line
+
+Course: N51° 18' 22"E     Length: 0.600m
+North: 4692355.2781m     East: 7511938.3969m
+
+
+Segment #4  :  Line
+
+Course: S38° 41' 38"E     Length: 0.400m
+North: 4692354.9659m     East: 7511938.6470m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 55
+
+Point of Beginning :  North: 4692350.8790m     East: 7511933.5758m
+
+Segment #1  :  Line
+
+Course: S51° 18' 22"W     Length: 0.600m
+North: 4692350.5039m     East: 7511933.1075m
+
+
+Segment #2  :  Line
+
+Course: N38° 41' 38"W     Length: 0.400m
+North: 4692350.8161m     East: 7511932.8574m
+
+
+Segment #3  :  Line
+
+Course: N51° 18' 22"E     Length: 0.600m
+North: 4692351.1912m     East: 7511933.3257m
+
+
+Segment #4  :  Line
+
+Course: S38° 41' 38"E     Length: 0.400m
+North: 4692350.8790m     East: 7511933.5758m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 56
+
+Point of Beginning :  North: 4692347.2527m     East: 7511929.0761m
+
+Segment #1  :  Line
+
+Course: S51° 18' 22"W     Length: 0.600m
+North: 4692346.8776m     East: 7511928.6078m
+
+
+Segment #2  :  Line
+
+Course: N38° 41' 38"W     Length: 0.400m
+North: 4692347.1898m     East: 7511928.3578m
+
+
+Segment #3  :  Line
+
+Course: N51° 18' 22"E     Length: 0.600m
+North: 4692347.5649m     East: 7511928.8261m
+
+
+Segment #4  :  Line
+
+Course: S38° 41' 38"E     Length: 0.400m
+North: 4692347.2527m     East: 7511929.0761m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 57
+
+Point of Beginning :  North: 4692343.7471m     East: 7511924.7262m
+
+Segment #1  :  Line
+
+Course: N38° 45' 55"W     Length: 0.600m
+North: 4692344.2149m     East: 7511924.3506m
+
+
+Segment #2  :  Line
+
+Course: N51° 14' 05"E     Length: 0.400m
+North: 4692344.4654m     East: 7511924.6625m
+
+
+Segment #3  :  Line
+
+Course: S38° 45' 55"E     Length: 0.600m
+North: 4692343.9975m     East: 7511925.0381m
+
+
+Segment #4  :  Line
+
+Course: S51° 14' 05"W     Length: 0.400m
+North: 4692343.7471m     East: 7511924.7262m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 58
+
+Point of Beginning :  North: 4692341.5440m     East: 7511918.1541m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692341.2806m     East: 7511917.6150m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692341.6399m     East: 7511917.4394m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692341.9034m     East: 7511917.9784m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692341.5440m     East: 7511918.1541m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 59
+
+Point of Beginning :  North: 4692343.6517m     East: 7511922.4666m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692343.3882m     East: 7511921.9275m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692343.7476m     East: 7511921.7519m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692344.0110m     East: 7511922.2910m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692343.6517m     East: 7511922.4666m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 60
+
+Point of Beginning :  North: 4692346.7550m     East: 7511915.6073m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692346.4915m     East: 7511915.0683m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692346.8509m     East: 7511914.8926m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692347.1144m     East: 7511915.4317m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692346.7550m     East: 7511915.6073m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 61
+
+Point of Beginning :  North: 4692348.8626m     East: 7511919.9199m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692348.5992m     East: 7511919.3808m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692348.9585m     East: 7511919.2052m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692349.2220m     East: 7511919.7442m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692348.8626m     East: 7511919.9199m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 62
+
+Point of Beginning :  North: 4692351.6066m     East: 7511913.2362m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692351.3431m     East: 7511912.6972m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692351.7025m     East: 7511912.5215m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692351.9659m     East: 7511913.0606m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692351.6066m     East: 7511913.2362m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 63
+
+Point of Beginning :  North: 4692353.7142m     East: 7511917.5488m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692353.4507m     East: 7511917.0097m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692353.8101m     East: 7511916.8341m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692354.0736m     East: 7511917.3731m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692353.7142m     East: 7511917.5488m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 64
+
+Point of Beginning :  North: 4692356.6378m     East: 7511910.7773m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692356.3744m     East: 7511910.2383m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692356.7338m     East: 7511910.0626m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692356.9972m     East: 7511910.6017m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692356.6378m     East: 7511910.7773m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 65
+
+Point of Beginning :  North: 4692358.7455m     East: 7511915.0898m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692358.4820m     East: 7511914.5508m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692358.8414m     East: 7511914.3751m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692359.1049m     East: 7511914.9142m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692358.7455m     East: 7511915.0898m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 66
+
+Point of Beginning :  North: 4692361.6691m     East: 7511908.3184m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692361.4057m     East: 7511907.7793m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692361.7650m     East: 7511907.6037m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692362.0285m     East: 7511908.1428m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692361.6691m     East: 7511908.3184m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 67
+
+Point of Beginning :  North: 4692363.7768m     East: 7511912.6309m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692363.5133m     East: 7511912.0919m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692363.8727m     East: 7511911.9162m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692364.1361m     East: 7511912.4553m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692363.7768m     East: 7511912.6309m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 68
+
+Point of Beginning :  North: 4692366.8718m     East: 7511905.7757m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692366.6084m     East: 7511905.2366m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692366.9678m     East: 7511905.0610m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692367.2312m     East: 7511905.6001m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692366.8718m     East: 7511905.7757m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 69
+
+Point of Beginning :  North: 4692368.9795m     East: 7511910.0882m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692368.7160m     East: 7511909.5492m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692369.0754m     East: 7511909.3735m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692369.3389m     East: 7511909.9126m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692368.9795m     East: 7511910.0882m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 70
+
+Point of Beginning :  North: 4692361.1145m     East: 7511920.1650m
+
+Segment #1  :  Line
+
+Course: N26° 02' 45"W     Length: 0.600m
+North: 4692361.6536m     East: 7511919.9016m
+
+
+Segment #2  :  Line
+
+Course: N63° 57' 15"E     Length: 0.400m
+North: 4692361.8292m     East: 7511920.2610m
+
+
+Segment #3  :  Line
+
+Course: S26° 02' 45"E     Length: 0.600m
+North: 4692361.2902m     East: 7511920.5244m
+
+
+Segment #4  :  Line
+
+Course: S63° 57' 15"W     Length: 0.400m
+North: 4692361.1145m     East: 7511920.1650m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 71
+
+Point of Beginning :  North: 4692363.1026m     East: 7511922.8664m
+
+Segment #1  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692363.3661m     East: 7511923.4055m
+
+
+Segment #2  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692363.0067m     East: 7511923.5811m
+
+
+Segment #3  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692362.7432m     East: 7511923.0421m
+
+
+Segment #4  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692363.1026m     East: 7511922.8664m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 72
+
+Point of Beginning :  North: 4692367.0520m     East: 7511928.1377m
+
+Segment #1  :  Line
+
+Course: N51° 18' 26"E     Length: 0.600m
+North: 4692367.4271m     East: 7511928.6060m
+
+
+Segment #2  :  Line
+
+Course: S38° 41' 34"E     Length: 0.400m
+North: 4692367.1149m     East: 7511928.8561m
+
+
+Segment #3  :  Line
+
+Course: S51° 18' 26"W     Length: 0.600m
+North: 4692366.7398m     East: 7511928.3877m
+
+
+Segment #4  :  Line
+
+Course: N38° 41' 34"W     Length: 0.400m
+North: 4692367.0520m     East: 7511928.1377m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 73
+
+Point of Beginning :  North: 4692369.0900m     East: 7511930.6693m
+
+Segment #1  :  Line
+
+Course: N51° 18' 26"E     Length: 0.600m
+North: 4692369.4651m     East: 7511931.1376m
+
+
+Segment #2  :  Line
+
+Course: S38° 41' 34"E     Length: 0.400m
+North: 4692369.1528m     East: 7511931.3877m
+
+
+Segment #3  :  Line
+
+Course: S51° 18' 26"W     Length: 0.600m
+North: 4692368.7778m     East: 7511930.9194m
+
+
+Segment #4  :  Line
+
+Course: N38° 41' 34"W     Length: 0.400m
+North: 4692369.0900m     East: 7511930.6693m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 74
+
+Point of Beginning :  North: 4692371.2332m     East: 7511933.2965m
+
+Segment #1  :  Line
+
+Course: N51° 18' 26"E     Length: 1.000m
+North: 4692371.8583m     East: 7511934.0770m
+
+
+Segment #2  :  Line
+
+Course: S38° 41' 34"E     Length: 0.400m
+North: 4692371.5461m     East: 7511934.3271m
+
+
+Segment #3  :  Line
+
+Course: S51° 18' 26"W     Length: 1.000m
+North: 4692370.9209m     East: 7511933.5466m
+
+
+Segment #4  :  Line
+
+Course: N38° 41' 34"W     Length: 0.400m
+North: 4692371.2332m     East: 7511933.2965m
+
+--------------------------------------------------
+
+
+Perimeter: 2.800m     Area: 0.40sq.m
+************************************************************************
+Name: Parcela : 75
+
+Point of Beginning :  North: 4692375.1353m     East: 7511931.4500m
+
+Segment #1  :  Line
+
+Course: S38° 41' 34"E     Length: 0.600m
+North: 4692374.6670m     East: 7511931.8251m
+
+
+Segment #2  :  Line
+
+Course: S51° 18' 26"W     Length: 0.400m
+North: 4692374.4169m     East: 7511931.5129m
+
+
+Segment #3  :  Line
+
+Course: N38° 41' 34"W     Length: 0.600m
+North: 4692374.8852m     East: 7511931.1378m
+
+
+Segment #4  :  Line
+
+Course: N51° 18' 26"E     Length: 0.400m
+North: 4692375.1353m     East: 7511931.4500m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 76
+
+Point of Beginning :  North: 4692372.7774m     East: 7511928.4313m
+
+Segment #1  :  Line
+
+Course: S58° 38' 06"W     Length: 0.600m
+North: 4692372.4652m     East: 7511927.9190m
+
+
+Segment #2  :  Line
+
+Course: N31° 21' 54"W     Length: 0.400m
+North: 4692372.8067m     East: 7511927.7108m
+
+
+Segment #3  :  Line
+
+Course: N58° 38' 06"E     Length: 0.600m
+North: 4692373.1190m     East: 7511928.2231m
+
+
+Segment #4  :  Line
+
+Course: S31° 21' 54"E     Length: 0.400m
+North: 4692372.7774m     East: 7511928.4313m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 77
+
+Point of Beginning :  North: 4692371.2259m     East: 7511925.8860m
+
+Segment #1  :  Line
+
+Course: S58° 38' 06"W     Length: 0.600m
+North: 4692370.9136m     East: 7511925.3737m
+
+
+Segment #2  :  Line
+
+Course: N31° 21' 54"W     Length: 0.400m
+North: 4692371.2552m     East: 7511925.1655m
+
+
+Segment #3  :  Line
+
+Course: N58° 38' 06"E     Length: 0.600m
+North: 4692371.5675m     East: 7511925.6778m
+
+
+Segment #4  :  Line
+
+Course: S31° 21' 54"E     Length: 0.400m
+North: 4692371.2259m     East: 7511925.8860m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 78
+
+Point of Beginning :  North: 4692371.6579m     East: 7511915.5687m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692371.3945m     East: 7511915.0297m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692371.7539m     East: 7511914.8540m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692372.0173m     East: 7511915.3931m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692371.6579m     East: 7511915.5687m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 79
+
+Point of Beginning :  North: 4692366.4552m     East: 7511918.1114m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692366.1918m     East: 7511917.5724m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692366.5511m     East: 7511917.3967m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692366.8146m     East: 7511917.9358m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692366.4552m     East: 7511918.1114m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 80
+
+Point of Beginning :  North: 4692368.4480m     East: 7511921.3289m
+
+Segment #1  :  Line
+
+Course: S58° 38' 06"W     Length: 0.600m
+North: 4692368.1358m     East: 7511920.8166m
+
+
+Segment #2  :  Line
+
+Course: N31° 21' 54"W     Length: 0.400m
+North: 4692368.4773m     East: 7511920.6084m
+
+
+Segment #3  :  Line
+
+Course: N58° 38' 06"E     Length: 0.600m
+North: 4692368.7896m     East: 7511921.1207m
+
+
+Segment #4  :  Line
+
+Course: S31° 21' 54"E     Length: 0.400m
+North: 4692368.4480m     East: 7511921.3289m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 81
+
+Point of Beginning :  North: 4692373.1866m     East: 7511918.6306m
+
+Segment #1  :  Line
+
+Course: S58° 38' 06"W     Length: 0.600m
+North: 4692372.8743m     East: 7511918.1183m
+
+
+Segment #2  :  Line
+
+Course: N31° 21' 54"W     Length: 0.400m
+North: 4692373.2159m     East: 7511917.9101m
+
+
+Segment #3  :  Line
+
+Course: N58° 38' 06"E     Length: 0.600m
+North: 4692373.5282m     East: 7511918.4224m
+
+
+Segment #4  :  Line
+
+Course: S31° 21' 54"E     Length: 0.400m
+North: 4692373.1866m     East: 7511918.6306m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 82
+
+Point of Beginning :  North: 4692376.1868m     East: 7511923.5524m
+
+Segment #1  :  Line
+
+Course: S58° 38' 06"W     Length: 0.600m
+North: 4692375.8745m     East: 7511923.0401m
+
+
+Segment #2  :  Line
+
+Course: N31° 21' 54"W     Length: 0.400m
+North: 4692376.2161m     East: 7511922.8319m
+
+
+Segment #3  :  Line
+
+Course: N58° 38' 06"E     Length: 0.600m
+North: 4692376.5284m     East: 7511923.3442m
+
+
+Segment #4  :  Line
+
+Course: S31° 21' 54"E     Length: 0.400m
+North: 4692376.1868m     East: 7511923.5524m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 83
+
+Point of Beginning :  North: 4692378.8246m     East: 7511927.9784m
+
+Segment #1  :  Line
+
+Course: N38° 41' 34"W     Length: 0.600m
+North: 4692379.2929m     East: 7511927.6033m
+
+
+Segment #2  :  Line
+
+Course: N51° 18' 26"E     Length: 0.400m
+North: 4692379.5430m     East: 7511927.9155m
+
+
+Segment #3  :  Line
+
+Course: S38° 41' 34"E     Length: 0.600m
+North: 4692379.0746m     East: 7511928.2906m
+
+
+Segment #4  :  Line
+
+Course: S51° 18' 26"W     Length: 0.400m
+North: 4692378.8246m     East: 7511927.9784m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 84
+
+Point of Beginning :  North: 4692382.5717m     East: 7511925.3746m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692382.3082m     East: 7511924.8356m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692382.6676m     East: 7511924.6599m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692382.9310m     East: 7511925.1990m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692382.5717m     East: 7511925.3746m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 85
+
+Point of Beginning :  North: 4692380.6168m     East: 7511921.3746m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692380.3533m     East: 7511920.8355m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692380.7127m     East: 7511920.6599m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692380.9762m     East: 7511921.1990m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692380.6168m     East: 7511921.3746m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 86
+
+Point of Beginning :  North: 4692378.0920m     East: 7511916.2085m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692377.8286m     East: 7511915.6695m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692378.1880m     East: 7511915.4938m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692378.4514m     East: 7511916.0329m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692378.0920m     East: 7511916.2085m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 87
+
+Point of Beginning :  North: 4692376.5993m     East: 7511913.1537m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692376.3359m     East: 7511912.6147m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692376.6952m     East: 7511912.4390m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692376.9587m     East: 7511912.9781m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692376.5993m     East: 7511913.1537m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 88
+
+Point of Beginning :  North: 4692373.9209m     East: 7511907.6733m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692373.6574m     East: 7511907.1342m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692374.0168m     East: 7511906.9585m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692374.2802m     East: 7511907.4976m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692373.9209m     East: 7511907.6733m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
+************************************************************************
+Name: Parcela : 89
+
+Point of Beginning :  North: 4692371.8133m     East: 7511903.3607m
+
+Segment #1  :  Line
+
+Course: S63° 57' 15"W     Length: 0.600m
+North: 4692371.5498m     East: 7511902.8217m
+
+
+Segment #2  :  Line
+
+Course: N26° 02' 45"W     Length: 0.400m
+North: 4692371.9092m     East: 7511902.6461m
+
+
+Segment #3  :  Line
+
+Course: N63° 57' 15"E     Length: 0.600m
+North: 4692372.1727m     East: 7511903.1851m
+
+
+Segment #4  :  Line
+
+Course: S26° 02' 45"E     Length: 0.400m
+North: 4692371.8133m     East: 7511903.3607m
+
+--------------------------------------------------
+
+
+Perimeter: 2.000m     Area: 0.24sq.m
