@@ -151,3 +151,26 @@ getoarvranovci@gmail.com
 
 Pages 3000€ me dt 23.07.2022
 3000€ gazi pages dt 30.03.2022
+
+
+
+Morea Kolellt germimi May 20 10:00
+Morea lle k4 May 25 12:00
+Morea Oborri piketim Jun 1 08:00
+Morea Lle K7 Jun 28 17:00
+Morea Kolellt themelet Aug 3 08:00
+Morea oborri kufiri Aug 11 14:30
+Morea kolollt themeli dhe oborri Aug 24 08:00
+Morea kolellt nivelet trapazani Aug 30 10:00
+Oborri Morea Shpendi 049/797-752  Sep 12 09:00
+
+
+
+Morea kellellt themeli Oct 4 08:30
+Merea themeli nivelet kelellt Oct 19 13:30
+Morea Vëllimet Oct 22 09:00
+Morea themeli nivelet  Nov 8 10:00
+Morea kolollt nivelet Nov 11 08:00
+Morea kolollt shtyllat kontrapllake- Nov 12 08:30
+Morea-Rruga Nov 15 10:30
+Morea kolollt shtyllat b2 Nov 29 08:30
