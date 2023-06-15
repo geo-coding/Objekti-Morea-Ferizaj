@@ -1,0 +1,1068 @@
+﻿<?xml version="1.0"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.0 http://www.landxml.org/schema/LandXML-1.0/LandXML-1.0.xsd" version="1.0" date="2023-06-15" time="12:58:08" readOnly="false" language="English">
+	<Project name="MOREA-KOLLOLLT-THEM-SHTY"/>
+	<Units>
+		<Metric linearUnit="meter" areaUnit="squareMeter" volumeUnit="cubicMeter" temperatureUnit="celsius" pressureUnit="HPA" angularUnit="decimal dd.mm.ss" directionUnit="decimal dd.mm.ss"/>
+	</Units>
+	<Application name="MAGNET Field" manufacturer="Topcon" version="4.3.1 (build 148156)(OnBoard)" desc="Topcon Field Controller Software for Surveying and Data Collection" manufacturerURL="www.topcon.com"/>
+	<Survey>
+		<SurveyHeader startTime="2022-11-12T11:16:39" endTime="2023-06-08T10:05:35" type="surveyed">
+		</SurveyHeader>
+		<Equipment>
+			<InstrumentDetails id="NA">
+				<Corrections/>
+			</InstrumentDetails>
+		</Equipment>
+		<InstrumentSetup id="pos1" stationName="KONTR-FS1" instrumentHeight="1.472">
+			<InstrumentPoint name="KONTR-FS1">4692353.048 7511983.503 619.752</InstrumentPoint>
+			<ObservationGroup id="res1" purpose="resection">
+				<Backsight circle="0.000000"/>
+				<RawObservation setupID="pos1" purpose="resection" targetHeight="0.100" horizAngle="177.414500" slopeDistance="44.880" zenithAngle="92.232700">
+					<TargetPoint name="KOL-BAS2"/>
+				</RawObservation>
+				<ReducedObservation/>
+			</ObservationGroup>
+			<ObservationGroup id="res2" purpose="resection">
+				<Backsight circle="0.000000"/>
+				<RawObservation setupID="pos1" purpose="resection" targetHeight="0.700" horizAngle="35.382500" slopeDistance="23.940" zenithAngle="86.175300">
+					<TargetPoint name="KOL-BAS1"/>
+				</RawObservation>
+				<ReducedObservation/>
+			</ObservationGroup>
+			<ObservationGroup id="res3" purpose="resection">
+				<Backsight circle="0.000000"/>
+				<RawObservation setupID="pos1" purpose="resection" targetHeight="0.100" horizAngle="122.424800" slopeDistance="49.810" zenithAngle="90.194200">
+					<TargetPoint name="BASKIA5"/>
+				</RawObservation>
+				<ReducedObservation/>
+			</ObservationGroup>
+			<Backsight id="bs1" azimuth="160.534855" circle="177.414757" targetHeight="0.100">
+				<BacksightPoint name="KOL-BAS2">4692310.674 7511998.179 619.251</BacksightPoint>
+			</Backsight>
+			<RawObservation setupID="pos1" purpose="sideshot" targetHeight="0.100" horizAngle="206.240400" slopeDistance="36.750" zenithAngle="104.311700">
+				<TargetPoint name="KONTR-P1"/>
+			</RawObservation>
+			<RawObservation setupID="pos1" purpose="sideshot" targetHeight="0.100" horizAngle="236.362800" slopeDistance="28.810" zenithAngle="110.561900">
+				<TargetPoint name="KONTR-P2"/>
+			</RawObservation>
+			<RawObservation setupID="pos1" purpose="sideshot" targetHeight="0.100" horizAngle="181.431100" slopeDistance="12.530" zenithAngle="145.061000">
+				<TargetPoint name="KONTR-P3"/>
+			</RawObservation>
+			<RawObservation setupID="pos1" purpose="sideshot" targetHeight="0.100" horizAngle="147.284200" slopeDistance="32.730" zenithAngle="108.170600">
+				<TargetPoint name="KONTR-P4"/>
+			</RawObservation>
+			<RawObservation setupID="pos1" purpose="sideshot" targetHeight="0.100" horizAngle="176.544800" slopeDistance="40.860" zenithAngle="103.114100">
+				<TargetPoint name="KONTR-P5"/>
+			</RawObservation>
+			<InstrumentSetup id="pos2" stationName="KONTR-FS2" instrumentHeight="1.555">
+				<InstrumentPoint name="KONTR-FS2">4692331.817 7511986.556 610.342</InstrumentPoint>
+				<ObservationGroup id="res4" purpose="resection">
+					<Backsight circle="177.414757"/>
+					<RawObservation setupID="pos2" purpose="resection" targetHeight="0.100" horizAngle="303.584200" slopeDistance="19.280" zenithAngle="90.000300">
+						<TargetPoint name="KONTR-P5"/>
+					</RawObservation>
+					<ReducedObservation/>
+				</ObservationGroup>
+				<ObservationGroup id="res5" purpose="resection">
+					<Backsight circle="177.414757"/>
+					<RawObservation setupID="pos2" purpose="resection" targetHeight="0.100" horizAngle="9.533900" slopeDistance="16.510" zenithAngle="89.362000">
+						<TargetPoint name="KONTR-P1"/>
+					</RawObservation>
+					<ReducedObservation/>
+				</ObservationGroup>
+				<ObservationGroup id="res6" purpose="resection">
+					<Backsight circle="177.414757"/>
+					<RawObservation setupID="pos2" purpose="resection" targetHeight="0.100" horizAngle="68.294500" slopeDistance="20.310" zenithAngle="92.440000">
+						<TargetPoint name="KONTR-P2"/>
+					</RawObservation>
+					<ReducedObservation/>
+				</ObservationGroup>
+				<ObservationGroup id="res7" purpose="resection">
+					<Backsight circle="177.414757"/>
+					<RawObservation setupID="pos2" purpose="resection" targetHeight="0.100" horizAngle="244.111200" slopeDistance="20.560" zenithAngle="92.374200">
+						<TargetPoint name="KONTR-P4"/>
+					</RawObservation>
+					<ReducedObservation/>
+				</ObservationGroup>
+				<Backsight id="bs2" azimuth="147.040486" circle="303.583872" targetHeight="0.100">
+					<BacksightPoint name="KONTR-P5">4692315.639 7511997.035 611.797</BacksightPoint>
+				</Backsight>
+				<InstrumentSetup id="pos3" stationName="KONTR-FS3" instrumentHeight="1.555">
+					<InstrumentPoint name="KONTR-FS3">4692331.816 7511986.557 610.342</InstrumentPoint>
+					<ObservationGroup id="res8" purpose="resection">
+						<Backsight circle="303.583872"/>
+						<RawObservation setupID="pos3" purpose="resection" targetHeight="0.100" horizAngle="303.584200" slopeDistance="19.280" zenithAngle="90.000300">
+							<TargetPoint name="KONTR-P5"/>
+						</RawObservation>
+						<ReducedObservation/>
+					</ObservationGroup>
+					<ObservationGroup id="res9" purpose="resection">
+						<Backsight circle="303.583872"/>
+						<RawObservation setupID="pos3" purpose="resection" targetHeight="0.100" horizAngle="68.294500" slopeDistance="20.310" zenithAngle="92.440000">
+							<TargetPoint name="KONTR-P2"/>
+						</RawObservation>
+						<ReducedObservation/>
+					</ObservationGroup>
+					<ObservationGroup id="res10" purpose="resection">
+						<Backsight circle="303.583872"/>
+						<RawObservation setupID="pos3" purpose="resection" targetHeight="0.100" horizAngle="244.111200" slopeDistance="20.560" zenithAngle="92.374200">
+							<TargetPoint name="KONTR-P4"/>
+						</RawObservation>
+						<ReducedObservation/>
+					</ObservationGroup>
+					<ObservationGroup id="res11" purpose="resection">
+						<Backsight circle="303.583872"/>
+						<RawObservation setupID="pos3" purpose="resection" targetHeight="0.100" horizAngle="152.084800" slopeDistance="14.400" zenithAngle="93.462200">
+							<TargetPoint name="KONTR-P3"/>
+						</RawObservation>
+						<ReducedObservation/>
+					</ObservationGroup>
+					<ObservationGroup id="res12" purpose="resection">
+						<Backsight circle="303.583872"/>
+						<RawObservation setupID="pos3" purpose="resection" targetHeight="0.100" horizAngle="9.532100" slopeDistance="16.510" zenithAngle="89.362400">
+							<TargetPoint name="KONTR-P1"/>
+						</RawObservation>
+						<ReducedObservation/>
+					</ObservationGroup>
+					<Backsight id="bs3" azimuth="147.041029" circle="303.583123" targetHeight="0.100">
+						<BacksightPoint name="KONTR-P5">4692315.639 7511997.035 611.797</BacksightPoint>
+					</Backsight>
+					<InstrumentSetup id="pos4" stationName="KONTR-FS4" instrumentHeight="1.530">
+						<InstrumentPoint name="KONTR-FS4">4692345.207 7511978.699 610.834</InstrumentPoint>
+						<ObservationGroup id="res13" purpose="resection">
+							<Backsight circle="303.583123"/>
+							<RawObservation setupID="pos4" purpose="resection" targetHeight="0.100" horizAngle="159.443400" slopeDistance="27.260" zenithAngle="90.443700">
+								<TargetPoint name="KONTR-P1"/>
+							</RawObservation>
+							<ReducedObservation/>
+						</ObservationGroup>
+						<ObservationGroup id="res14" purpose="resection">
+							<Backsight circle="303.583123"/>
+							<RawObservation setupID="pos4" purpose="resection" targetHeight="0.100" horizAngle="125.335400" slopeDistance="34.800" zenithAngle="90.460900">
+								<TargetPoint name="KONTR-P5"/>
+							</RawObservation>
+							<ReducedObservation/>
+						</ObservationGroup>
+						<ObservationGroup id="res15" purpose="resection">
+							<Backsight circle="303.583123"/>
+							<RawObservation setupID="pos4" purpose="resection" targetHeight="0.100" horizAngle="90.595200" slopeDistance="31.000" zenithAngle="92.362600">
+								<TargetPoint name="KONTR-P4"/>
+							</RawObservation>
+							<ReducedObservation/>
+						</ObservationGroup>
+						<Backsight id="bs4" azimuth="182.223324" circle="159.443299" targetHeight="0.100">
+							<BacksightPoint name="KONTR-P1">4692317.970 7511977.569 611.909</BacksightPoint>
+						</Backsight>
+						<InstrumentSetup id="pos5" stationName="RRUG-FS1" instrumentHeight="1.540">
+							<InstrumentPoint name="RRUG-FS1">4692357.442 7511988.922 620.465</InstrumentPoint>
+							<ObservationGroup id="res16" purpose="resection">
+								<Backsight circle="159.443299"/>
+								<RawObservation setupID="pos5" purpose="resection" targetHeight="0.100" horizAngle="31.125500" slopeDistance="47.750" zenithAngle="93.111000">
+									<TargetPoint name="KOL-BAS2"/>
+								</RawObservation>
+								<ReducedObservation/>
+							</ObservationGroup>
+							<ObservationGroup id="res17" purpose="resection">
+								<Backsight circle="159.443299"/>
+								<RawObservation setupID="pos5" purpose="resection" targetHeight="0.400" horizAngle="229.353200" slopeDistance="18.370" zenithAngle="88.325700">
+									<TargetPoint name="KOL-BAS1"/>
+								</RawObservation>
+								<ReducedObservation/>
+							</ObservationGroup>
+							<ObservationGroup id="res18" purpose="resection">
+								<Backsight circle="159.443299"/>
+								<RawObservation setupID="pos5" purpose="resection" targetHeight="0.100" horizAngle="335.255400" slopeDistance="46.170" zenithAngle="91.192100">
+									<TargetPoint name="BASKIA5"/>
+								</RawObservation>
+								<ReducedObservation/>
+							</ObservationGroup>
+							<Backsight id="bs5" azimuth="168.481537" circle="31.125369" targetHeight="0.100">
+								<BacksightPoint name="KOL-BAS2">4692310.674 7511998.179 619.251</BacksightPoint>
+							</Backsight>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="93.340600" slopeDistance="7.094" zenithAngle="95.183600">
+								<TargetPoint name="A18_stk" desc="A18"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="131.222600" slopeDistance="9.822" zenithAngle="93.392300">
+								<TargetPoint name="A22_stk" desc="A22"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="134.131100" slopeDistance="11.560" zenithAngle="93.175000">
+								<TargetPoint name="A34_stk" desc="A34"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="91.502700" slopeDistance="47.620" zenithAngle="94.001200">
+								<TargetPoint name="A10_A11_stk" desc="A10"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="93.394900" slopeDistance="47.518" zenithAngle="93.582000">
+								<TargetPoint name="A19_A20_stk" desc="A19"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="100.550500" slopeDistance="47.429" zenithAngle="93.471200">
+								<TargetPoint name="A21_A22_stk" desc="A21"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="102.444700" slopeDistance="47.596" zenithAngle="93.471100">
+								<TargetPoint name="A33_A34_stk" desc="A33"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="100.535600" slopeDistance="59.570" zenithAngle="93.070900">
+								<TargetPoint name="A33_A34_stk1" desc="A33"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="99.224200" slopeDistance="60.033" zenithAngle="93.075900">
+								<TargetPoint name="A21_A22_stk1" desc="A21"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="93.351000" slopeDistance="63.443" zenithAngle="93.131200">
+								<TargetPoint name="A20_A19_stk" desc="A20"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="92.170800" slopeDistance="63.470" zenithAngle="93.104100">
+								<TargetPoint name="A11_A10_stk" desc="A11"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="102.453900" slopeDistance="74.370" zenithAngle="92.424000">
+								<TargetPoint name="200"/>
+								<Feature code="TERREN"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.500" horizAngle="103.040300" slopeDistance="59.510" zenithAngle="92.545800">
+								<TargetPoint name="201"/>
+								<Feature code="TERREN"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="0.700" horizAngle="111.121700" slopeDistance="74.540" zenithAngle="93.132200">
+								<TargetPoint name="202"/>
+								<Feature code="TERREN"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="111.001400" slopeDistance="61.540" zenithAngle="93.012000">
+								<TargetPoint name="203"/>
+								<Feature code="TERREN"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="0.100" horizAngle="102.330900" slopeDistance="59.410" zenithAngle="93.465700">
+								<TargetPoint name="204"/>
+								<Feature code="OBJEKT"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="0.100" horizAngle="108.443800" slopeDistance="35.370" zenithAngle="96.211100">
+								<TargetPoint name="205"/>
+								<Feature code="OBJEKT"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="0.100" horizAngle="113.145200" slopeDistance="27.610" zenithAngle="98.065500">
+								<TargetPoint name="206"/>
+								<Feature code="GARAZHA"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="0.100" horizAngle="118.033900" slopeDistance="22.230" zenithAngle="92.115900">
+								<TargetPoint name="207"/>
+								<Feature code="GARAZHA"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="211.275900" slopeDistance="13.810" zenithAngle="89.323800">
+								<TargetPoint name="208"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="207.034200" slopeDistance="13.020" zenithAngle="89.432300">
+								<TargetPoint name="209"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="206.293100" slopeDistance="12.920" zenithAngle="90.112400">
+								<TargetPoint name="210"/>
+								<Feature code="ASFALT"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="181.321900" slopeDistance="10.980" zenithAngle="90.525400">
+								<TargetPoint name="211"/>
+								<Feature code="ASFALT"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="180.072200" slopeDistance="10.920" zenithAngle="90.232800">
+								<TargetPoint name="212"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="173.305600" slopeDistance="12.150" zenithAngle="90.090300">
+								<TargetPoint name="213"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="352.065300" slopeDistance="12.460" zenithAngle="89.562100">
+								<TargetPoint name="214"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="346.494100" slopeDistance="12.410" zenithAngle="90.001800">
+								<TargetPoint name="215"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="346.050900" slopeDistance="12.450" zenithAngle="90.361900">
+								<TargetPoint name="216"/>
+								<Feature code="ASFALT"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="334.082300" slopeDistance="22.520" zenithAngle="90.041800">
+								<TargetPoint name="217"/>
+								<Feature code="ASFALT"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="333.112700" slopeDistance="22.630" zenithAngle="89.422100">
+								<TargetPoint name="218"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<RawObservation setupID="pos5" purpose="sideshot" targetHeight="1.250" horizAngle="329.594600" slopeDistance="23.030" zenithAngle="89.372700">
+								<TargetPoint name="219"/>
+								<Feature code="TROTUAR"/>
+							</RawObservation>
+							<InstrumentSetup id="pos6" stationName="KOL-B2-FS1" instrumentHeight="1.503">
+								<InstrumentPoint name="KOL-B2-FS1">4692353.311 7511984.077 619.783</InstrumentPoint>
+								<ObservationGroup id="res19" purpose="resection">
+									<Backsight circle="31.125369"/>
+									<RawObservation setupID="pos6" purpose="resection" targetHeight="0.100" horizAngle="254.581600" slopeDistance="49.330" zenithAngle="90.240600">
+										<TargetPoint name="BASKIA5"/>
+									</RawObservation>
+									<ReducedObservation/>
+								</ObservationGroup>
+								<ObservationGroup id="res20" purpose="resection">
+									<Backsight circle="31.125369"/>
+									<RawObservation setupID="pos6" purpose="resection" targetHeight="0.400" horizAngle="166.182400" slopeDistance="23.490" zenithAngle="87.064900">
+										<TargetPoint name="KOL-BAS1"/>
+									</RawObservation>
+									<ReducedObservation/>
+								</ObservationGroup>
+								<ObservationGroup id="res21" purpose="resection">
+									<Backsight circle="31.125369"/>
+									<RawObservation setupID="pos6" purpose="resection" targetHeight="0.100" horizAngle="310.165800" slopeDistance="44.950" zenithAngle="92.275800">
+										<TargetPoint name="KOL-BAS2"/>
+									</RawObservation>
+									<ReducedObservation/>
+								</ObservationGroup>
+								<Backsight id="bs6" azimuth="106.231772" circle="254.581636" targetHeight="0.100">
+									<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+								</Backsight>
+								<InstrumentSetup id="pos7" stationName="B1-FS1" instrumentHeight="1.575">
+									<InstrumentPoint name="B1-FS1">4692353.311 7511985.689 619.799</InstrumentPoint>
+									<ObservationGroup id="res22" purpose="resection">
+										<Backsight circle="254.581636"/>
+										<RawObservation setupID="pos7" purpose="resection" targetHeight="0.100" horizAngle="6.520300" slopeDistance="47.790" zenithAngle="90.311700">
+											<TargetPoint name="BASKIA5"/>
+										</RawObservation>
+										<ReducedObservation/>
+									</ObservationGroup>
+									<ObservationGroup id="res23" purpose="resection">
+										<Backsight circle="254.581636"/>
+										<RawObservation setupID="pos7" purpose="resection" targetHeight="0.100" horizAngle="63.362900" slopeDistance="44.470" zenithAngle="92.362200">
+											<TargetPoint name="KOL-BAS2"/>
+										</RawObservation>
+										<ReducedObservation/>
+									</ObservationGroup>
+									<ObservationGroup id="res24" purpose="resection">
+										<Backsight circle="254.581636"/>
+										<RawObservation setupID="pos7" purpose="resection" targetHeight="0.700" horizAngle="273.495300" slopeDistance="23.060" zenithAngle="86.313900">
+											<TargetPoint name="KOL-BAS1"/>
+										</RawObservation>
+										<ReducedObservation/>
+									</ObservationGroup>
+									<Backsight id="bs7" azimuth="106.560081" circle="6.520267" targetHeight="0.100">
+										<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+									</Backsight>
+									<InstrumentSetup id="pos8" stationName="P-FS1" instrumentHeight="1.502">
+										<InstrumentPoint name="P-FS1">4692351.966 7511979.012 619.437</InstrumentPoint>
+										<ObservationGroup id="res25" purpose="resection">
+											<Backsight circle="6.520267"/>
+											<RawObservation setupID="pos8" purpose="resection" targetHeight="0.100" horizAngle="233.264300" slopeDistance="45.550" zenithAngle="91.595100">
+												<TargetPoint name="KOL-BAS2"/>
+											</RawObservation>
+											<ReducedObservation/>
+										</ObservationGroup>
+										<ObservationGroup id="res26" purpose="resection">
+											<Backsight circle="6.520267"/>
+											<RawObservation setupID="pos8" purpose="resection" targetHeight="0.100" horizAngle="105.361500" slopeDistance="26.680" zenithAngle="87.211000">
+												<TargetPoint name="KOL-BAS1"/>
+											</RawObservation>
+											<ReducedObservation/>
+										</ObservationGroup>
+										<ObservationGroup id="res27" purpose="resection">
+											<Backsight circle="6.520267"/>
+											<RawObservation setupID="pos8" purpose="resection" targetHeight="0.100" horizAngle="181.503200" slopeDistance="53.880" zenithAngle="90.000200">
+												<TargetPoint name="BASKIA5"/>
+											</RawObservation>
+											<ReducedObservation/>
+										</ObservationGroup>
+										<Backsight id="bs8" azimuth="155.055873" circle="233.264366" targetHeight="0.100">
+											<BacksightPoint name="KOL-BAS2">4692310.674 7511998.179 619.251</BacksightPoint>
+										</Backsight>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="262.550500" slopeDistance="33.990" zenithAngle="94.302300">
+											<TargetPoint name="220"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="253.302800" slopeDistance="30.610" zenithAngle="95.160900">
+											<TargetPoint name="221"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="248.295700" slopeDistance="30.850" zenithAngle="95.110200">
+											<TargetPoint name="222"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="243.314300" slopeDistance="32.610" zenithAngle="94.535400">
+											<TargetPoint name="223"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="243.315900" slopeDistance="32.610" zenithAngle="94.541100">
+											<TargetPoint name="224"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="233.160900" slopeDistance="41.570" zenithAngle="93.412800">
+											<TargetPoint name="225"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="200.253400" slopeDistance="35.340" zenithAngle="92.162900">
+											<TargetPoint name="226"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="195.130400" slopeDistance="8.090" zenithAngle="110.170000">
+											<TargetPoint name="227"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="198.242400" slopeDistance="5.950" zenithAngle="118.081800">
+											<TargetPoint name="228"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="297.384200" slopeDistance="23.910" zenithAngle="96.440400">
+											<TargetPoint name="229"/>
+											<Feature code="B1"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="319.073600" slopeDistance="44.240" zenithAngle="93.434700">
+											<TargetPoint name="KOL-ARM-4"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="19.413400" slopeDistance="7.670" zenithAngle="88.155300">
+											<TargetPoint name="230"/>
+											<Feature code="PERDHESA"/>
+										</RawObservation>
+										<RawObservation setupID="pos8" purpose="sideshot" targetHeight="0.100" horizAngle="179.354500" slopeDistance="24.670" zenithAngle="90.305100">
+											<TargetPoint name="231"/>
+											<Feature code="TROTUAR"/>
+										</RawObservation>
+										<InstrumentSetup id="pos9" stationName="PP-FS1" instrumentHeight="1.556">
+											<InstrumentPoint name="PP-FS1">4692344.555 7511983.308 621.046</InstrumentPoint>
+											<ObservationGroup id="res28" purpose="resection">
+												<Backsight circle="233.264366"/>
+												<RawObservation setupID="pos9" purpose="resection" targetHeight="0.100" horizAngle="256.304800" slopeDistance="48.400" zenithAngle="91.581600">
+													<TargetPoint name="BASKIA5"/>
+												</RawObservation>
+												<ReducedObservation/>
+											</ObservationGroup>
+											<ObservationGroup id="res29" purpose="resection">
+												<Backsight circle="233.264366"/>
+												<RawObservation setupID="pos9" purpose="resection" targetHeight="0.100" horizAngle="136.464900" slopeDistance="87.670" zenithAngle="91.045600">
+													<TargetPoint name="KOLBASKIA3"/>
+												</RawObservation>
+												<ReducedObservation/>
+											</ObservationGroup>
+											<ObservationGroup id="res30" purpose="resection">
+												<Backsight circle="233.264366"/>
+												<RawObservation setupID="pos9" purpose="resection" targetHeight="0.100" horizAngle="174.391400" slopeDistance="32.090" zenithAngle="90.461000">
+													<TargetPoint name="KOL-BAS1"/>
+												</RawObservation>
+												<ReducedObservation/>
+											</ObservationGroup>
+											<Backsight id="bs9" azimuth="96.073207" circle="256.305525" targetHeight="0.100">
+												<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+											</Backsight>
+											<InstrumentSetup id="pos10" stationName="PP-FS2" instrumentHeight="1.556">
+												<InstrumentPoint name="PP-FS2">4692344.562 7511983.307 621.047</InstrumentPoint>
+												<ObservationGroup id="res31" purpose="resection">
+													<Backsight circle="256.305525"/>
+													<RawObservation setupID="pos10" purpose="resection" targetHeight="0.100" horizAngle="256.304800" slopeDistance="48.400" zenithAngle="91.581600">
+														<TargetPoint name="BASKIA5"/>
+													</RawObservation>
+													<ReducedObservation/>
+												</ObservationGroup>
+												<ObservationGroup id="res32" purpose="resection">
+													<Backsight circle="256.305525"/>
+													<RawObservation setupID="pos10" purpose="resection" targetHeight="0.100" horizAngle="174.391400" slopeDistance="32.090" zenithAngle="90.461000">
+														<TargetPoint name="KOL-BAS1"/>
+													</RawObservation>
+													<ReducedObservation/>
+												</ObservationGroup>
+												<Backsight id="bs10" azimuth="96.080187" circle="256.304378" targetHeight="0.100">
+													<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+												</Backsight>
+												<InstrumentSetup id="pos11" stationName="PP-FS3" instrumentHeight="1.556">
+													<InstrumentPoint name="PP-FS3">4692349.025 7511982.985 621.045</InstrumentPoint>
+													<ObservationGroup id="res33" purpose="resection">
+														<Backsight circle="256.304378"/>
+														<RawObservation setupID="pos11" purpose="resection" targetHeight="0.100" horizAngle="160.190100" slopeDistance="83.460" zenithAngle="91.081800">
+															<TargetPoint name="KOLBASKIA3"/>
+														</RawObservation>
+														<ReducedObservation/>
+													</ObservationGroup>
+													<ObservationGroup id="res34" purpose="resection">
+														<Backsight circle="256.304378"/>
+														<RawObservation setupID="pos11" purpose="resection" targetHeight="0.100" horizAngle="286.125400" slopeDistance="49.390" zenithAngle="91.561500">
+															<TargetPoint name="BASKIA5"/>
+														</RawObservation>
+														<ReducedObservation/>
+													</ObservationGroup>
+													<ObservationGroup id="res35" purpose="resection">
+														<Backsight circle="256.304378"/>
+														<RawObservation setupID="pos11" purpose="resection" targetHeight="0.100" horizAngle="71.184400" slopeDistance="46.580" zenithAngle="95.344900">
+															<TargetPoint name="KOL-ARM-4"/>
+														</RawObservation>
+														<ReducedObservation/>
+													</ObservationGroup>
+													<ObservationGroup id="res36" purpose="resection">
+														<Backsight circle="256.304378"/>
+														<RawObservation setupID="pos11" purpose="resection" targetHeight="0.400" horizAngle="202.064500" slopeDistance="27.860" zenithAngle="90.161600">
+															<TargetPoint name="KOL-BAS1"/>
+														</RawObservation>
+														<ReducedObservation/>
+													</ObservationGroup>
+													<Backsight id="bs11" azimuth="335.214188" circle="160.190173" targetHeight="0.100">
+														<BacksightPoint name="KOLBASKIA3">4692424.872 7511948.198 620.842</BacksightPoint>
+													</Backsight>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="17.141600" slopeDistance="31.540" zenithAngle="90.310200">
+														<TargetPoint name="232"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="11.501100" slopeDistance="28.490" zenithAngle="90.302100">
+														<TargetPoint name="233"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="5.404100" slopeDistance="27.290" zenithAngle="90.301700">
+														<TargetPoint name="234"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="0.072200" slopeDistance="27.600" zenithAngle="90.325300">
+														<TargetPoint name="235"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="355.310100" slopeDistance="29.180" zenithAngle="90.323600">
+														<TargetPoint name="236"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="343.331800" slopeDistance="37.150" zenithAngle="90.293700">
+														<TargetPoint name="237"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="306.182400" slopeDistance="30.370" zenithAngle="90.292700">
+														<TargetPoint name="238"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="285.063000" slopeDistance="2.830" zenithAngle="95.135400">
+														<TargetPoint name="239"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="247.231600" slopeDistance="0.700" zenithAngle="111.441600">
+														<TargetPoint name="240"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="180.380800" slopeDistance="1.130" zenithAngle="102.551100">
+														<TargetPoint name="241"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<RawObservation setupID="pos11" purpose="sideshot" targetHeight="1.350" horizAngle="58.154200" slopeDistance="24.500" zenithAngle="90.332300">
+														<TargetPoint name="242"/>
+														<Feature code="PERDHESA"/>
+													</RawObservation>
+													<InstrumentSetup id="pos12" stationName="K1-FS1" instrumentHeight="1.577">
+														<InstrumentPoint name="K1-FS1">4692344.263 7511990.292 625.058</InstrumentPoint>
+														<ObservationGroup id="res37" purpose="resection">
+															<Backsight circle="160.190173"/>
+															<RawObservation setupID="pos12" purpose="resection" targetHeight="0.100" horizAngle="212.071900" slopeDistance="41.790" zenithAngle="97.500900">
+																<TargetPoint name="BASKIA5"/>
+															</RawObservation>
+															<ReducedObservation/>
+														</ObservationGroup>
+														<ObservationGroup id="res38" purpose="resection">
+															<Backsight circle="160.190173"/>
+															<RawObservation setupID="pos12" purpose="resection" targetHeight="0.700" horizAngle="117.030000" slopeDistance="31.640" zenithAngle="97.010000">
+																<TargetPoint name="KOL-BAS1"/>
+															</RawObservation>
+															<ReducedObservation/>
+														</ObservationGroup>
+														<ObservationGroup id="res39" purpose="resection">
+															<Backsight circle="160.190173"/>
+															<RawObservation setupID="pos12" purpose="resection" targetHeight="1.000" horizAngle="87.480100" slopeDistance="91.060" zenithAngle="93.005000">
+																<TargetPoint name="KOLBASKIA3"/>
+															</RawObservation>
+															<ReducedObservation/>
+														</ObservationGroup>
+														<Backsight id="bs12" azimuth="96.452009" circle="212.073160" targetHeight="0.100">
+															<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+														</Backsight>
+														<InstrumentSetup id="pos13" stationName="K2-FS1" instrumentHeight="1.548">
+															<InstrumentPoint name="K2-FS1">4692343.210 7511987.259 627.990</InstrumentPoint>
+															<ObservationGroup id="res40" purpose="resection">
+																<Backsight circle="212.073160"/>
+																<RawObservation setupID="pos13" purpose="resection" targetHeight="0.100" horizAngle="174.433300" slopeDistance="90.930" zenithAngle="95.251900">
+																	<TargetPoint name="KOLBASKIA3"/>
+																</RawObservation>
+																<ReducedObservation/>
+															</ObservationGroup>
+															<ObservationGroup id="res41" purpose="resection">
+																<Backsight circle="212.073160"/>
+																<RawObservation setupID="pos13" purpose="resection" targetHeight="0.100" horizAngle="207.141700" slopeDistance="33.510" zenithAngle="102.420900">
+																	<TargetPoint name="KOL-BAS1"/>
+																</RawObservation>
+																<ReducedObservation/>
+															</ObservationGroup>
+															<ObservationGroup id="res42" purpose="resection">
+																<Backsight circle="212.073160"/>
+																<RawObservation setupID="pos13" purpose="resection" targetHeight="0.100" horizAngle="295.135200" slopeDistance="45.140" zenithAngle="100.590200">
+																	<TargetPoint name="BASKIA5"/>
+																</RawObservation>
+																<ReducedObservation/>
+															</ObservationGroup>
+															<Backsight id="bs13" azimuth="334.261255" circle="174.432818" targetHeight="0.100">
+																<BacksightPoint name="KOLBASKIA3">4692424.872 7511948.198 620.842</BacksightPoint>
+															</Backsight>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="180.322400" slopeDistance="6.070" zenithAngle="103.422600">
+																<TargetPoint name="243"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="315.095500" slopeDistance="23.910" zenithAngle="93.312400">
+																<TargetPoint name="244"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="355.215600" slopeDistance="27.770" zenithAngle="93.030200">
+																<TargetPoint name="245"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="22.332500" slopeDistance="17.100" zenithAngle="94.534400">
+																<TargetPoint name="246"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="20.025200" slopeDistance="15.930" zenithAngle="95.232700">
+																<TargetPoint name="247"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="1.300" horizAngle="28.562500" slopeDistance="14.520" zenithAngle="90.594400">
+																<TargetPoint name="248"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="1.300" horizAngle="33.123500" slopeDistance="16.560" zenithAngle="90.513600">
+																<TargetPoint name="249"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="1.300" horizAngle="34.180600" slopeDistance="16.320" zenithAngle="90.593100">
+																<TargetPoint name="250"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="1.300" horizAngle="48.255000" slopeDistance="26.190" zenithAngle="90.341700">
+																<TargetPoint name="251"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="1.300" horizAngle="84.243200" slopeDistance="24.740" zenithAngle="90.351700">
+																<TargetPoint name="252"/>
+																<Feature code="KATI 2"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="257.000800" slopeDistance="129.690" zenithAngle="92.564500">
+																<TargetPoint name="KOL-BAS-20"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="271.404800" slopeDistance="141.630" zenithAngle="92.454200">
+																<TargetPoint name="KOL-BAS-21"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="285.420200" slopeDistance="176.080" zenithAngle="92.153000">
+																<TargetPoint name="KOL-BAS-22"/>
+															</RawObservation>
+															<RawObservation setupID="pos13" purpose="sideshot" targetHeight="0.100" horizAngle="294.294400" slopeDistance="159.750" zenithAngle="92.580800">
+																<TargetPoint name="KOL-BAS-23"/>
+															</RawObservation>
+															<InstrumentSetup id="pos14" stationName="K3-FS1" instrumentHeight="1.528">
+																<InstrumentPoint name="K3-FS1">4692343.663 7511991.580 630.908</InstrumentPoint>
+																<ObservationGroup id="res43" purpose="resection">
+																	<Backsight circle="174.432818"/>
+																	<RawObservation setupID="pos14" purpose="resection" targetHeight="0.100" horizAngle="309.580600" slopeDistance="41.670" zenithAngle="106.011700">
+																		<TargetPoint name="BASKIA5"/>
+																	</RawObservation>
+																	<ReducedObservation/>
+																</ObservationGroup>
+																<ObservationGroup id="res44" purpose="resection">
+																	<Backsight circle="174.432818"/>
+																	<RawObservation setupID="pos14" purpose="resection" targetHeight="0.100" horizAngle="213.115800" slopeDistance="33.600" zenithAngle="107.473700">
+																		<TargetPoint name="KOL-BAS1"/>
+																	</RawObservation>
+																	<ReducedObservation/>
+																</ObservationGroup>
+																<ObservationGroup id="res45" purpose="resection">
+																	<Backsight circle="174.432818"/>
+																	<RawObservation setupID="pos14" purpose="resection" targetHeight="0.100" horizAngle="185.443900" slopeDistance="92.780" zenithAngle="97.063200">
+																		<TargetPoint name="KOLBASKIA3"/>
+																	</RawObservation>
+																	<ReducedObservation/>
+																</ObservationGroup>
+																<Backsight id="bs14" azimuth="96.070902" circle="309.581622" targetHeight="0.100">
+																	<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+																</Backsight>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="100.520400" slopeDistance="28.900" zenithAngle="90.295100">
+																	<TargetPoint name="253"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="69.103900" slopeDistance="28.880" zenithAngle="90.291600">
+																	<TargetPoint name="254"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="59.400700" slopeDistance="18.430" zenithAngle="90.492800">
+																	<TargetPoint name="255"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="60.435400" slopeDistance="18.280" zenithAngle="90.501400">
+																	<TargetPoint name="256"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="57.301500" slopeDistance="16.220" zenithAngle="91.011400">
+																	<TargetPoint name="257"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="48.190100" slopeDistance="16.810" zenithAngle="90.553700">
+																	<TargetPoint name="258"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="49.472300" slopeDistance="18.180" zenithAngle="90.502800">
+																	<TargetPoint name="259"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="24.054000" slopeDistance="23.760" zenithAngle="90.340300">
+																	<TargetPoint name="260"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="0.325400" slopeDistance="22.060" zenithAngle="90.371700">
+																	<TargetPoint name="261"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="335.023900" slopeDistance="20.260" zenithAngle="90.391800">
+																	<TargetPoint name="262"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<RawObservation setupID="pos14" purpose="sideshot" targetHeight="1.350" horizAngle="162.405700" slopeDistance="8.090" zenithAngle="91.461400">
+																	<TargetPoint name="263"/>
+																	<Feature code="KATI 3"/>
+																</RawObservation>
+																<InstrumentSetup id="pos15" stationName="K4-FS1" instrumentHeight="1.485">
+																	<InstrumentPoint name="K4-FS1">4692342.804 7511992.131 633.848</InstrumentPoint>
+																	<ObservationGroup id="res46" purpose="resection">
+																		<Backsight circle="309.581622"/>
+																		<RawObservation setupID="pos15" purpose="resection" targetHeight="0.100" horizAngle="181.402500" slopeDistance="41.970" zenithAngle="110.034000">
+																			<TargetPoint name="BASKIA5"/>
+																		</RawObservation>
+																		<ReducedObservation/>
+																	</ObservationGroup>
+																	<ObservationGroup id="res47" purpose="resection">
+																		<Backsight circle="309.581622"/>
+																		<RawObservation setupID="pos15" purpose="resection" targetHeight="0.100" horizAngle="85.064800" slopeDistance="35.400" zenithAngle="111.492500">
+																			<TargetPoint name="KOL-BAS1"/>
+																		</RawObservation>
+																		<ReducedObservation/>
+																	</ObservationGroup>
+																	<ObservationGroup id="res48" purpose="resection">
+																		<Backsight circle="309.581622"/>
+																		<RawObservation setupID="pos15" purpose="resection" targetHeight="0.100" horizAngle="58.331700" slopeDistance="94.190" zenithAngle="98.471700">
+																			<TargetPoint name="KOLBASKIA3"/>
+																		</RawObservation>
+																		<ReducedObservation/>
+																	</ObservationGroup>
+																	<Backsight id="bs15" azimuth="94.574785" circle="181.403212" targetHeight="0.100">
+																		<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+																	</Backsight>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="0.100" horizAngle="336.005900" slopeDistance="28.670" zenithAngle="92.481500">
+																		<TargetPoint name="264"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="303.543300" slopeDistance="28.520" zenithAngle="90.265700">
+																		<TargetPoint name="265"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="295.223600" slopeDistance="17.930" zenithAngle="90.414400">
+																		<TargetPoint name="266"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="296.303500" slopeDistance="17.780" zenithAngle="90.405300">
+																		<TargetPoint name="267"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="293.282900" slopeDistance="15.670" zenithAngle="90.514200">
+																		<TargetPoint name="268"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="283.561800" slopeDistance="16.140" zenithAngle="90.434100">
+																		<TargetPoint name="269"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="285.150100" slopeDistance="17.570" zenithAngle="90.455600">
+																		<TargetPoint name="270"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="251.161300" slopeDistance="25.690" zenithAngle="90.281300">
+																		<TargetPoint name="271"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="206.325100" slopeDistance="19.350" zenithAngle="90.421200">
+																		<TargetPoint name="272"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<RawObservation setupID="pos15" purpose="sideshot" targetHeight="1.350" horizAngle="37.340700" slopeDistance="9.080" zenithAngle="91.232100">
+																		<TargetPoint name="273"/>
+																		<Feature code="KATI 4"/>
+																	</RawObservation>
+																	<InstrumentSetup id="pos16" stationName="K5-FS1" instrumentHeight="1.535">
+																		<InstrumentPoint name="K5-FS1">4692345.463 7511989.341 636.739</InstrumentPoint>
+																		<ObservationGroup id="res49" purpose="resection">
+																			<Backsight circle="181.403212"/>
+																			<RawObservation setupID="pos16" purpose="resection" targetHeight="0.100" horizAngle="23.312400" slopeDistance="45.900" zenithAngle="112.113000">
+																				<TargetPoint name="BASKIA5"/>
+																			</RawObservation>
+																			<ReducedObservation/>
+																		</ObservationGroup>
+																		<ObservationGroup id="res50" purpose="resection">
+																			<Backsight circle="181.403212"/>
+																			<RawObservation setupID="pos16" purpose="resection" targetHeight="0.100" horizAngle="288.515700" slopeDistance="34.270" zenithAngle="118.015600">
+																				<TargetPoint name="KOL-BAS1"/>
+																			</RawObservation>
+																			<ReducedObservation/>
+																		</ObservationGroup>
+																		<ObservationGroup id="res51" purpose="resection">
+																			<Backsight circle="181.403212"/>
+																			<RawObservation setupID="pos16" purpose="resection" targetHeight="0.700" horizAngle="257.554000" slopeDistance="90.980" zenithAngle="100.353200">
+																				<TargetPoint name="KOLBASKIA3"/>
+																			</RawObservation>
+																			<ReducedObservation/>
+																		</ObservationGroup>
+																		<Backsight id="bs16" azimuth="98.124173" circle="23.313125" targetHeight="0.100">
+																			<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+																		</Backsight>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="47.250400" slopeDistance="23.130" zenithAngle="90.413600">
+																			<TargetPoint name="274"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="86.005800" slopeDistance="29.070" zenithAngle="90.285400">
+																			<TargetPoint name="275"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="113.320000" slopeDistance="19.510" zenithAngle="90.450700">
+																			<TargetPoint name="276"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="111.373400" slopeDistance="18.210" zenithAngle="90.442300">
+																			<TargetPoint name="277"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="119.363100" slopeDistance="17.190" zenithAngle="90.503400">
+																			<TargetPoint name="278"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="123.480700" slopeDistance="19.060" zenithAngle="90.502300">
+																			<TargetPoint name="279"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="122.444500" slopeDistance="19.300" zenithAngle="90.411200">
+																			<TargetPoint name="280"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="134.580000" slopeDistance="29.240" zenithAngle="90.282200">
+																			<TargetPoint name="281"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="167.074900" slopeDistance="27.640" zenithAngle="90.310300">
+																			<TargetPoint name="282"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<RawObservation setupID="pos16" purpose="sideshot" targetHeight="1.350" horizAngle="234.152600" slopeDistance="5.210" zenithAngle="92.461600">
+																			<TargetPoint name="283"/>
+																			<Feature code="KATI 5"/>
+																		</RawObservation>
+																		<InstrumentSetup id="pos17" stationName="K5-FS3" instrumentHeight="1.505">
+																			<InstrumentPoint name="K5-FS3">4692346.682 7511985.904 636.753</InstrumentPoint>
+																			<ObservationGroup id="res52" purpose="resection">
+																				<Backsight circle="23.313125"/>
+																				<RawObservation setupID="pos17" purpose="resection" targetHeight="0.400" horizAngle="348.195100" slopeDistance="49.120" zenithAngle="110.164000">
+																					<TargetPoint name="BASKIA5"/>
+																				</RawObservation>
+																				<ReducedObservation/>
+																			</ObservationGroup>
+																			<ObservationGroup id="res53" purpose="resection">
+																				<Backsight circle="23.313125"/>
+																				<RawObservation setupID="pos17" purpose="resection" targetHeight="0.100" horizAngle="223.292600" slopeDistance="88.510" zenithAngle="101.163600">
+																					<TargetPoint name="KOLBASKIA3"/>
+																				</RawObservation>
+																				<ReducedObservation/>
+																			</ObservationGroup>
+																			<ObservationGroup id="res54" purpose="resection">
+																				<Backsight circle="23.313125"/>
+																				<RawObservation setupID="pos17" purpose="resection" targetHeight="0.100" horizAngle="259.372200" slopeDistance="33.560" zenithAngle="118.383200">
+																					<TargetPoint name="KOL-BAS1"/>
+																				</RawObservation>
+																				<ReducedObservation/>
+																			</ObservationGroup>
+																			<Backsight id="bs17" azimuth="99.060517" circle="348.200260" targetHeight="0.400">
+																				<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+																			</Backsight>
+																			<InstrumentSetup id="pos18" stationName="K6-FS1" instrumentHeight="1.505">
+																				<InstrumentPoint name="K6-FS1">4692344.958 7511990.137 639.655</InstrumentPoint>
+																				<ObservationGroup id="res55" purpose="resection">
+																					<Backsight circle="348.200260"/>
+																					<RawObservation setupID="pos18" purpose="resection" targetHeight="0.100" horizAngle="142.181800" slopeDistance="46.290" zenithAngle="115.541400">
+																						<TargetPoint name="BASKIA5"/>
+																					</RawObservation>
+																					<ReducedObservation/>
+																				</ObservationGroup>
+																				<ObservationGroup id="res56" purpose="resection">
+																					<Backsight circle="348.200260"/>
+																					<RawObservation setupID="pos18" purpose="resection" targetHeight="0.100" horizAngle="46.382600" slopeDistance="36.110" zenithAngle="121.434200">
+																						<TargetPoint name="KOL-BAS1"/>
+																					</RawObservation>
+																					<ReducedObservation/>
+																				</ObservationGroup>
+																				<ObservationGroup id="res57" purpose="resection">
+																					<Backsight circle="348.200260"/>
+																					<RawObservation setupID="pos18" purpose="resection" targetHeight="0.100" horizAngle="16.563500" slopeDistance="92.480" zenithAngle="102.373000">
+																						<TargetPoint name="KOLBASKIA3"/>
+																					</RawObservation>
+																					<ReducedObservation/>
+																				</ObservationGroup>
+																				<Backsight id="bs18" azimuth="97.404571" circle="142.183154" targetHeight="0.100">
+																					<BacksightPoint name="BASKIA5">4692339.394 7512031.399 620.841</BacksightPoint>
+																				</Backsight>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="166.391800" slopeDistance="22.150" zenithAngle="90.350200">
+																					<TargetPoint name="284"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="206.303700" slopeDistance="28.320" zenithAngle="90.263900">
+																					<TargetPoint name="285"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="235.224800" slopeDistance="19.140" zenithAngle="90.410300">
+																					<TargetPoint name="286"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="233.323900" slopeDistance="17.810" zenithAngle="90.410000">
+																					<TargetPoint name="287"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="241.575500" slopeDistance="16.900" zenithAngle="90.443500">
+																					<TargetPoint name="288"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="245.540500" slopeDistance="18.830" zenithAngle="90.370500">
+																					<TargetPoint name="289"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="244.501400" slopeDistance="19.070" zenithAngle="90.380200">
+																					<TargetPoint name="290"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="256.102000" slopeDistance="29.190" zenithAngle="90.242300">
+																					<TargetPoint name="291"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="288.070500" slopeDistance="28.130" zenithAngle="90.303300">
+																					<TargetPoint name="292"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<RawObservation setupID="pos18" purpose="sideshot" targetHeight="1.300" horizAngle="352.265800" slopeDistance="6.170" zenithAngle="91.581100">
+																					<TargetPoint name="293"/>
+																					<Feature code="KATI 6"/>
+																				</RawObservation>
+																				<InstrumentSetup id="pos19" stationName="K7-FS1" instrumentHeight="1.550">
+																					<InstrumentPoint name="K7-FS1">4692344.040 7511991.014 642.545</InstrumentPoint>
+																					<ObservationGroup id="res58" purpose="resection">
+																						<Backsight circle="142.183154"/>
+																						<RawObservation setupID="pos19" purpose="resection" targetHeight="0.100" horizAngle="273.094100" slopeDistance="94.350" zenithAngle="104.121600">
+																							<TargetPoint name="KOLBASKIA3"/>
+																						</RawObservation>
+																						<ReducedObservation/>
+																					</ObservationGroup>
+																					<ObservationGroup id="res59" purpose="resection">
+																						<Backsight circle="142.183154"/>
+																						<RawObservation setupID="pos19" purpose="resection" targetHeight="0.100" horizAngle="301.255900" slopeDistance="38.470" zenithAngle="124.443700">
+																							<TargetPoint name="KOL-BAS1"/>
+																						</RawObservation>
+																						<ReducedObservation/>
+																					</ObservationGroup>
+																					<ObservationGroup id="res60" purpose="resection">
+																						<Backsight circle="142.183154"/>
+																						<RawObservation setupID="pos19" purpose="resection" targetHeight="0.400" horizAngle="37.373200" slopeDistance="46.640" zenithAngle="119.204100">
+																							<TargetPoint name="BASKIA5"/>
+																						</RawObservation>
+																						<ReducedObservation/>
+																					</ObservationGroup>
+																					<Backsight id="bs19" azimuth="332.052557" circle="273.092623" targetHeight="0.100">
+																						<BacksightPoint name="KOLBASKIA3">4692424.872 7511948.198 620.842</BacksightPoint>
+																					</Backsight>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.100" horizAngle="62.183900" slopeDistance="21.000" zenithAngle="94.004700">
+																						<TargetPoint name="297"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.100" horizAngle="104.115900" slopeDistance="27.230" zenithAngle="93.040600">
+																						<TargetPoint name="298"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.100" horizAngle="134.551800" slopeDistance="18.510" zenithAngle="94.231000">
+																						<TargetPoint name="299"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.100" horizAngle="133.230300" slopeDistance="17.140" zenithAngle="94.451000">
+																						<TargetPoint name="300"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="1.300" horizAngle="142.205000" slopeDistance="16.310" zenithAngle="90.561700">
+																						<TargetPoint name="301"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="1.300" horizAngle="145.540000" slopeDistance="18.350" zenithAngle="90.472800">
+																						<TargetPoint name="302"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="1.300" horizAngle="144.451700" slopeDistance="18.540" zenithAngle="90.475000">
+																						<TargetPoint name="303"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="1.300" horizAngle="155.012500" slopeDistance="28.890" zenithAngle="90.293800">
+																						<TargetPoint name="304"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="1.300" horizAngle="186.595800" slopeDistance="28.510" zenithAngle="90.311700">
+																						<TargetPoint name="305"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="1.300" horizAngle="250.391000" slopeDistance="7.380" zenithAngle="91.582900">
+																						<TargetPoint name="306"/>
+																						<Feature code="KATI 7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="250.314600" slopeDistance="24.450" zenithAngle="80.070200">
+																						<TargetPoint name="307"/>
+																						<Feature code="KATI 9"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="247.072600" slopeDistance="24.830" zenithAngle="79.582300">
+																						<TargetPoint name="308"/>
+																						<Feature code="KATI 9"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="196.561600" slopeDistance="57.340" zenithAngle="80.325900">
+																						<TargetPoint name="309"/>
+																						<Feature code="KATI 9"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="196.433000" slopeDistance="57.330" zenithAngle="83.550900">
+																						<TargetPoint name="310"/>
+																						<Feature code="KATI 9"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="247.151300" slopeDistance="29.090" zenithAngle="57.033700">
+																						<TargetPoint name="K13"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="250.385700" slopeDistance="27.290" zenithAngle="61.473100">
+																						<TargetPoint name="K12"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="250.380100" slopeDistance="26.060" zenithAngle="67.265700">
+																						<TargetPoint name="K11"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="250.363500" slopeDistance="25.090" zenithAngle="73.340400">
+																						<TargetPoint name="K10"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="250.314600" slopeDistance="24.450" zenithAngle="80.060900">
+																						<TargetPoint name="K9"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="247.072300" slopeDistance="24.510" zenithAngle="86.550100">
+																						<TargetPoint name="K8"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="247.094500" slopeDistance="24.510" zenithAngle="93.471400">
+																						<TargetPoint name="K7"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="247.110600" slopeDistance="24.890" zenithAngle="100.283700">
+																						<TargetPoint name="K6"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="254.592600" slopeDistance="39.210" zenithAngle="100.542200">
+																						<TargetPoint name="K5"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="255.533700" slopeDistance="45.120" zenithAngle="103.135000">
+																						<TargetPoint name="K4"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="255.512300" slopeDistance="45.490" zenithAngle="106.551700">
+																						<TargetPoint name="K3"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="256.075300" slopeDistance="48.400" zenithAngle="109.291300">
+																						<TargetPoint name="K2"/>
+																					</RawObservation>
+																					<RawObservation setupID="pos19" purpose="sideshot" targetHeight="0.000" horizAngle="256.165200" slopeDistance="47.430" zenithAngle="78.113700">
+																						<TargetPoint name="311"/>
+																						<Feature code="KATI 9"/>
+																					</RawObservation>
+																				</InstrumentSetup>
+																			</Survey>
+																		</LandXML>
